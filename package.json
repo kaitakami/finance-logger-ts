@@ -1,0 +1,19 @@
+{
+  "name": "finance-logger-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sandbox.js",
+  "scripts": {
+    "dev": "tsc -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "tsc": "^2.0.4"
+  },
+  "dependencies": {
+    "typescript": "^4.9.4"
+  }
+}
